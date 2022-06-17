@@ -157,7 +157,7 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: #870000;  /* fallback for old browsers */
+  background: white;  /* fallback for old browsers */
  
   width: 290px;
   display: block;
@@ -165,7 +165,7 @@
   margin-right: auto;
   border-radius: 8px;
   font-size: 15px;
-  color: white;
+  color: black;
 }
 /* --------------MAIL--------------------------------------- */
 

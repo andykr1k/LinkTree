@@ -43,7 +43,8 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: red;
+  background: white;  /* fallback for old browsers */
+ 
   width: 290px;
   display: block;
   margin-left: auto;
@@ -81,8 +82,8 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: orange;  /* fallback for old browsers */
-
+  background: white;  /* fallback for old browsers */
+ 
   width: 290px;
   display: block;
   margin-left: auto;
@@ -119,8 +120,8 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: blue;  /* fallback for old browsers */
-
+  background: white;  /* fallback for old browsers */
+ 
   width: 290px;
   display: block;
   margin-left: auto;
